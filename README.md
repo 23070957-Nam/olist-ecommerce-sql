@@ -2,7 +2,7 @@
 
 Analysis of about 100,000 orders from Olist, a Brazilian e-commerce marketplace, from 2016 to 2018. Thirteen SQL queries answer business questions on growth, delivery, customer retention, payments and sellers, and an interactive Tableau dashboard presents the results with recommendations.
 
-**Live dashboard:** [Tableau Public](https://public.tableau.com/views/Olist_Ecommerce_Dashboard_17934069735120/Recommendations)
+**Live dashboard:** [Tableau Public](https://public.tableau.com/views/Olist_Ecommerce_Dashboard_17934069735120/Dashboard1)
 
 ## Key findings
 
@@ -34,7 +34,7 @@ All queries and their full output are in [`queries.sql`](queries.sql) and [`resu
 
 ## Tableau dashboard
 
-The [interactive dashboard](https://public.tableau.com/views/Olist_Ecommerce_Dashboard_17934069735120/Recommendations), built in Tableau, has 10 pages: revenue trend and forecast, category and payment analysis, delivery time map, review drivers, customer retention, seller concentration, a storytelling page and recommendations. It uses calculated fields such as YoY growth, on-time rate, delay groups and level-of-detail expressions for repeat customers.
+The [interactive dashboard](https://public.tableau.com/views/Olist_Ecommerce_Dashboard_17934069735120/Dashboard1), built in Tableau, has 10 pages: revenue trend and forecast, category and payment analysis, delivery time map, review drivers, customer retention, seller concentration, a storytelling page and recommendations. It uses calculated fields such as YoY growth, on-time rate, delay groups and level-of-detail expressions for repeat customers.
 
 ## How to run
 
